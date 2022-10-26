@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vratesh16
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning French and German On Duolingo.
-- 💞️ I’m looking to collaborate on Web Development Roles
+- 🌱 I’m currently learning French and German Languages On Duolingo.
+- 💞️ I’m looking to collaborate on Web Development Roles.
 - 📫 How to reach me through My Instagram Handle : @_vratesh16
 
 <!---
